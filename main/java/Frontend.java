@@ -7,6 +7,7 @@ import java.io.IOException;
 /**
  * Created by Admin on 25.09.2017.
  */
+<<<<<<< 50b9673fd19f203623036f24026a98c0fd8af236
 public class Frontend extends HttpServlet {
     private String login = "";
 
